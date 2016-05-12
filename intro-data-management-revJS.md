@@ -80,7 +80,7 @@ The amount of available storage is not keeping up with the amount of data floodi
 </div>
 
 
-## Poor Data Management Affects EVeryone
+## Poor Data Management Affects Everyone
 
 
 **AUDIT:  JUSTICE STATS ON ANTI-TERROR CASES FLAWED” (AP) February 2007**
@@ -126,3 +126,26 @@ Cost: Estimated 9 work months/inventory
         (14 inventories = $504,000)
 
 ![](images/data-mgt-ex.png)
+
+
+## Importance of Data Management
+
+Please forgive my paranoia about protocols, standards, and data review.  I'm in the latter stages of a long career with USGS (30 years, and counting), and have experienced much.  Experience is the knowledge you get just after you needed it. 
+
+Several times, I've seen colleagues called to court in order to testify about conditions they have observed.  
+
+Without a strong tradition of constant review and approval of basic data, they would've been in deep trouble under cross-examination.  Instead, they were able to produce field notes, data approval records, and the like, to back up their testimony.  
+
+It's one thing to be questioned by a college student who is working on a project for school.  It's another entirely to be grilled by an attorney under oath with the media present.”
+
+- Nelson Williams, Scientist US Geological Survey 
+
+
+## Importance of Data Management
+
+The climate scientists at the centre of a media storm over leaked emails were yesterday cleared of accusations that they fudged their results and silenced critics, but a review found they had failed to be open enough about their work.
+
+![](images/datamgt-import.png)
+
+	
+
