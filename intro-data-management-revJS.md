@@ -59,10 +59,6 @@ The amount of available storage is not keeping up with the amount of data floodi
 
 ## Data Loss
 
-
-<div class="columns-2">
-
-
 * Natural disaster 
 * Facilities infrastructure failure 
 * Server hardware/software failure
@@ -77,7 +73,6 @@ The amount of available storage is not keeping up with the amount of data floodi
 * Loss of financial stability 
 * Changes in user expectations and requirements
   ![](images/data-loss.jpg)
-</div>
 
 
 ## Poor Data Management Affects Everyone
