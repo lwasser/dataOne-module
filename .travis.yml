@@ -3,6 +3,7 @@ sudo: required
 before_script:
 - chmod +x ./bin/cibuild
 before_install:
+  - mkdir -p ~/.ssh
   - openssl aes-256-cbc -K $encrypted_957066c6439f_key -iv $encrypted_957066c6439f_iv -in id_rsa.enc -out ~\/.ssh/id_rsa -d
   - sudo apt-get update
   - sudo apt-get upgrade
