@@ -8,6 +8,10 @@ Here are some *notes*.
 
 - Something about the slide
 - another thing about the slide
+- 
+<aside class="notes">
+    here are slide notes.
+</aside>
 
 </div>
 
